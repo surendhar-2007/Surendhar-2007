@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/neon-banner.svg" width="100%" alt="Neon Banner">
+<img src="./neon-banner.svg" width="100%" alt="Neon Banner">
 
 <br>
 
-<img src="./assets/about-developer.svg" width="100%" alt="About Developer">
+<img src="./about-developer.svg" width="100%" alt="About Developer">
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,typescript,angular,nodejs,fastapi,mysql,git,github,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,ts,angular,nodejs,fastapi,mysql,git,github,vscode&perline=8" alt="Tech Stack"/>
 
 </div>
 
@@ -25,12 +25,12 @@
 <div align="center">
 
 | 🔥 Area | 💡 Focus |
-|---|---|
-| 🤖 Artificial Intelligence | AI-powered applications & intelligent systems |
+|:---|:---|
+| 🤖 Artificial Intelligence | AI-powered applications and intelligent systems |
 | 🌐 Web Development | Modern full-stack web applications |
-| 📱 App Development | Practical mobile-first solutions |
-| 🛰️ Data & APIs | Real-time data, APIs & automation |
-| 🎨 UI/UX | Futuristic, clean & user-friendly interfaces |
+| 📱 App Development | Practical, mobile-friendly solutions |
+| 🛰️ Data & APIs | Real-time data, APIs and automation |
+| 🎨 UI/UX | Futuristic and user-friendly interfaces |
 
 </div>
 
@@ -38,21 +38,17 @@
 
 <h2 align="center">💻 PROJECTS</h2>
 
-<div align="center">
+<h3>🔥 Industrial Fire Intelligence System</h3>
 
-### 🔥 Industrial Fire Intelligence System
+Satellite-powered industrial fire monitoring using NASA FIRMS and OpenStreetMap, with fire-risk analysis and location-based visualization.
 
-Satellite-powered industrial fire monitoring using **NASA FIRMS + OpenStreetMap**, with fire-risk analysis and location-based visualization.
+**Tech Stack:** `Python` `FastAPI` `Angular` `Leaflet` `NASA FIRMS` `OpenStreetMap`
 
-**Tech:** `Python` `FastAPI` `Angular` `Leaflet` `NASA FIRMS` `OSM`
+<h3>🤖 AI-Powered Applications</h3>
 
-<br>
+Building intelligent applications that combine AI, automation, APIs and modern interfaces to solve real-world problems.
 
-### 🤖 AI-Powered Applications
-
-Building intelligent applications that combine **AI, automation, APIs and modern interfaces** to solve real-world problems.
-
-</div>
+**Focus:** `AI` `Machine Learning` `Automation` `Full Stack Development`
 
 <br>
 
@@ -60,9 +56,9 @@ Building intelligent applications that combine **AI, automation, APIs and modern
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=surendhar-2007&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=surendhar-2007&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surendhar-2007&theme=radical&hide_border=true" height="170">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surendhar-2007&theme=radical&hide_border=true" height="170" alt="GitHub Streak"/>
 
 </div>
 
@@ -72,7 +68,7 @@ Building intelligent applications that combine **AI, automation, APIs and modern
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surendhar-2007&theme=radical" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surendhar-2007&theme=radical" width="100%" alt="GitHub Contribution Summary"/>
 
 </div>
 
@@ -92,7 +88,7 @@ Building intelligent applications that combine **AI, automation, APIs and modern
 
 <div align="center">
 
-> <b>Think.</b> <b>Build.</b> <b>Break.</b> <b>Improve.</b> <b>Repeat.</b>
+**Think. Build. Break. Improve. Repeat.**
 
 </div>
 
@@ -100,20 +96,16 @@ Building intelligent applications that combine **AI, automation, APIs and modern
 
 <div align="center">
 
-<img src="./assets/connect-background.svg" width="100%" alt="Let's Connect">
+<img src="./connect-background.svg" width="100%" alt="Let's Connect"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <a href="https://github.com/surendhar-2007">
-<img src="https://img.shields.io/badge/GitHub-surendhar-2007-ff003c?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-surendhar--2007-ff003c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=surendhar-2007&style=for-the-badge&color=ff003c&label=PROFILE+VIEWS">
+<img src="https://komarev.com/ghpvc/?username=surendhar-2007&style=for-the-badge&color=ff003c&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
