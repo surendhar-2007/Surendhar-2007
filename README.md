@@ -60,9 +60,9 @@ Building intelligent applications that combine **AI, automation, APIs and modern
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shriharineural-stack&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=surendhar-2007&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="170">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shriharineural-stack&theme=radical&hide_border=true" height="170">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surendhar-2007&theme=radical&hide_border=true" height="170">
 
 </div>
 
@@ -72,7 +72,7 @@ Building intelligent applications that combine **AI, automation, APIs and modern
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shriharineural-stack&theme=radical" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surendhar-2007&theme=radical" width="100%">
 
 </div>
 
@@ -108,12 +108,12 @@ Building intelligent applications that combine **AI, automation, APIs and modern
 
 <div align="center">
 
-<a href="https://github.com/shriharineural-stack">
-<img src="https://img.shields.io/badge/GitHub-shriharineural--stack-ff003c?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/surendhar-2007">
+<img src="https://img.shields.io/badge/GitHub-surendhar-2007-ff003c?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=shriharineural-stack&style=for-the-badge&color=ff003c&label=PROFILE+VIEWS">
+<img src="https://komarev.com/ghpvc/?username=surendhar-2007&style=for-the-badge&color=ff003c&label=PROFILE+VIEWS">
 
 </div>
